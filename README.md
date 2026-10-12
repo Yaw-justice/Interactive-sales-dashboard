@@ -6,11 +6,11 @@ This project presents an interactive sales dashboard developed using Microsoft P
 
 Objectives
 
-Evaluate overall sales performance using key performance indicators (KPIs).
-Identify the highest-revenue product line, country, and customer.
-Compare sales performance across quarters and months.
-Examine monthly sales trends and potential seasonal patterns.
-Provide actionable business recommendations based on the findings.
+–To evaluate overall sales performance using key performance indicators (KPIs).
+–To identify the highest-revenue product line, country, and customer.
+–To compare sales performance across quarters and months.
+–To examine monthly sales trends and potential seasonal patterns.
+–To provide actionable business recommendations based on the findings.
 
 Tools Used
 
