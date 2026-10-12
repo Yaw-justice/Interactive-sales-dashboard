@@ -70,7 +70,7 @@ Conclusion
 The dashboard provides an overview of sales performance across products, markets, customers, and time periods. It demonstrates how interactive data visualisation can help identify revenue drivers, monitor trends, and inform business planning.
 
 Project Files
-- `README.md` - Overview
+- `README.md` – Overview
 - `sales-dashboard.png` — Dashboard screenshot.
 - `Sales_Dashboard.pbix` — Power BI report file.
 - `Sales_Dataset.xlsx` — Excel dataset.
