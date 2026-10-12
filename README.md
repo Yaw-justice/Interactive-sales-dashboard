@@ -58,6 +58,7 @@ Deal-size concentration: Medium-sized deals accounted for 61% of sales, followed
 
 Files
 - [`README.md`](https://github.com/Yaw-justice/Interactive-sales-dashboard/blob/main/README.md) – Overview
+- (https://github.com/Yaw-justice/Interactive-sales-dashboard/blob/main/Sales%20Performance%20Report.pdf)– View full sales performance report.
 - [`sales-dashboard.png`](https://github.com/Yaw-justice/Interactive-sales-dashboard/blob/main/Sales_dataset.xlsx) – Dashboard screenshot.
 - [`Sales_Dashboard.pbix`](https://github.com/Yaw-justice/Interactive-sales-dashboard/blob/main/sales-dashboard.png) – Power BI report file.
 - [`Sales_Dataset.xlsx`](https://github.com/Yaw-justice/Interactive-sales-dashboard/blob/main/sales_dashboard.pbix) – Excel dataset.
