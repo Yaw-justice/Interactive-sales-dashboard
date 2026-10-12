@@ -1,4 +1,4 @@
-#INREACTIVE SALES DASHBOARD 
+INREACTIVE SALES DASHBOARD 
 
 Overview
 
@@ -48,7 +48,7 @@ Key Findings
 **Strong overall sales performance**: Total sales reached 10.03 million from 307 orders, supported by an average order value of 32.68K.
 **Seasonal sales pattern**: The fourth quarter was the best-performing quarter, with approximately 3.87 million in sales. 
 November was the strongest month, recording approximately 2.12 million, while June was among the weakest months. 
-** Product concentration**: Classic Cars was the dominant product line, generating approximately 3.92 million, while Trains recorded the lowest sales at approximately 226K. 
+**Product concentration**: Classic Cars was the dominant product line, generating approximately 3.92 million, while Trains recorded the lowest sales at approximately 226K. 
 **Deal-size concentration**: Medium-sized deals accounted for 61% of sales, followed by small deals at 26% and large deals at 13%.
 **Country performance**: USA was the leading market, generating approximately 3.63 million in sales.
 **Customer with highest revenue**: Euro Shopping Channel was the highest-performing customer among the top 10, contributing approximately 912K in sales.
