@@ -1,6 +1,6 @@
-# Interactive-sales-dashboard
+Interactive sales dashboard
 
-Project Overview
+Overview
 
 This project presents an interactive sales dashboard developed using Microsoft Power BI, with data prepared in Microsoft Excel. The dashboard analyses sales performance across product lines, countries, customers, deal sizes, and time periods.
 
@@ -34,7 +34,7 @@ Dashboard Features
 - Monthly sales trend analysis.
 - Sales distribution by deal size.
 - Sales comparison by product line.
-- Customer-level sales performance.
+- Top 10 Customer-level sales performance.
 - Country-level sales comparison.
 - KPI cards for monitoring overall performance.
 
@@ -55,7 +55,7 @@ Key Findings
 
 *Note: These findings are based on the dashboard's displayed values and should be verified against the underlying dataset before publication.*
 
-Business Recommendations
+Recommendations
 
 1. Strengthen high-performing product lines:** Maintain the availability of Classic Cars and investigate opportunities to improve the performance of lower-selling product lines.
 2. Build on the US market: Maintain customer relationships in the United States and assess opportunities for growth in other countries.
