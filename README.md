@@ -57,13 +57,12 @@ Key Findings
 
 Recommendations
 
-1. Strengthen high-performing product lines:** Maintain the availability of Classic Cars and investigate opportunities to improve the performance of lower-selling product lines.
+1. Strengthen high-performing product lines: Maintain the availability of Classic Cars and investigate opportunities to improve the performance of lower-selling product lines.
 2. Build on the US market: Maintain customer relationships in the United States and assess opportunities for growth in other countries.
 3. Plan for peak sales periods: Prepare inventory, staffing, and marketing campaigns ahead of the observed October–November sales increase.
 4. Investigate low-sales months: Examine the reasons for lower sales in June and consider targeted marketing or promotional strategies where appropriate.
 5. Retain high-value customers: Strengthen relationships with major customers, particularly Euro Shopping Channel, through customer retention initiatives and personalised service.
-6. Optimise deal-size strategies: Examine the factors contributing to medium-sized deals' strong performance and identify opportunities to improve revenue from other deal sizes.
-7. Monitor sales performance: Use the dashboard regularly to track KPIs, identify changes in sales trends, and support evidence-based business decisions.
+6. Optimise deal-size strategies: Examine the factors contributing to medium-sized deals' strong performance and identify opportunities to improve revenue from other deal.
 
 Conclusion
 
@@ -80,4 +79,4 @@ Yaw-Justice
 
 
 Disclaimer
-This project is intended for learning and portfolio demonstration. Findings and recommendations are limited to the available dataset and do not necessarily represent future business performance.
+*This project is intended for learning and portfolio demonstration. Findings and recommendations are limited to the available dataset and do not necessarily represent future business performance*
