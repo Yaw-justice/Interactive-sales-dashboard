@@ -69,11 +69,11 @@ Conclusion
 
 The dashboard provides an overview of sales performance across products, markets, customers, and time periods. It demonstrates how interactive data visualisation can help identify revenue drivers, monitor trends, and inform business planning.
 
-Project Files
+Files
 - [`README.md`](https://github.com/Yaw-justice/Interactive-sales-dashboard/blob/main/README.md) – Overview
-- `sales-dashboard.png` – Dashboard screenshot.
-- `Sales_Dashboard.pbix` – Power BI report file.
-- `Sales_Dataset.xlsx` – Excel dataset.
+- [`sales-dashboard.png`](https://github.com/Yaw-justice/Interactive-sales-dashboard/blob/main/Sales_dataset.xlsx) – Dashboard screenshot.
+- [`Sales_Dashboard.pbix`](https://github.com/Yaw-justice/Interactive-sales-dashboard/blob/main/sales-dashboard.png) – Power BI report file.
+- [`Sales_Dataset.xlsx`](https://github.com/Yaw-justice/Interactive-sales-dashboard/blob/main/sales_dashboard.pbix) – Excel dataset.
 
 Author
 Yaw-Justice
