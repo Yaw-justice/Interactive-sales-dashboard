@@ -71,9 +71,9 @@ The dashboard provides an overview of sales performance across products, markets
 
 Project Files
 - `README.md` – Overview
-- `sales-dashboard.png` — Dashboard screenshot.
-- `Sales_Dashboard.pbix` — Power BI report file.
-- `Sales_Dataset.xlsx` — Excel dataset.
+- `sales-dashboard.png` – Dashboard screenshot.
+- `Sales_Dashboard.pbix` – Power BI report file.
+- `Sales_Dataset.xlsx` – Excel dataset.
 
 Author
 Yaw-Justice
